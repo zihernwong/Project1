@@ -6,3 +6,9 @@ Approaching the age of 1, Cee-Es began looking at computers and watching Peppa P
 He picked up loops rather quickly but polymorphism and recursion proved to be a problem. Some nights he cried while doing his projects
 provided by his parents, but it was all worth it as he began to master the language of Java. By the age of 4, he was ready for another 
 challenge: Python.     
+
+For Cee-Es, Python was a whole different beast. He struggled for days on end trying to learn, but nothing was clicking. Going on 32 hours
+with no sleep, Cee-Es discovered something that would greatly aid him in his learning of Python. While exploring the attic in his very large home,
+Cee-Es found a very old dusty box. After sneezing from cleaning the dust off of it, he found an old book covered in an eqaully large amount of dust
+that the aforementioned box was in. The book was called "The Holy Bible of Coding." Cee-Es got very excited and hurriedly ran out of the attic. 
+Unfortunately, he tripped and the book went flying out of his hands, out a window, and into a pool below. The book was ruined.
