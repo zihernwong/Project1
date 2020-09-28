@@ -1,0 +1,8 @@
+The Biography of Cee-Es
+Beginning:
+On an ominous Friday, September 13th, a little baby boy named Cee-Es was born. His parents Steve and Lena were both programmers for Apple.
+As soon as Cee-Es came out of his mother's womb, his eyes were clearly out of sync. To fix this, he had eye surgery which went successful.
+Approaching the age of 1, Cee-Es began looking at computers and watching Peppa Pig. At the age of two, Cee-Es started to learn Java. 
+He picked up loops rather quickly but polymorphism and recursion proved to be a problem. Some nights he cried while doing his projects
+provided by his parents, but it was all worth it as he began to master the language of Java. By the age of 4, he was ready for another 
+challenge: Python.     
